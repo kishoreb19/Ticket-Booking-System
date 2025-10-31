@@ -1,0 +1,1 @@
+[{"train_id":"1003","train_no":"12345","seats":[[1,0,0,1,0,0],[0,1,1,1,0,0],[0,1,0,1,0,0],[0,0,1,0,0,0]],"station_times":{"bangalore":"13:50:00","jaipur":"15:00:00","delhi":"18:30:00"},"stations":["bangalore","jaipur","delhi"],"train_info":"Train ID: 1003 Train No.:12345"}]
